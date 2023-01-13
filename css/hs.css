@@ -1,0 +1,56 @@
+
+img{
+    width: 100%;
+}
+
+body{
+    background-color:rgb(255, 255, 255);
+}
+h1,h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+nav{
+    text-align: center;
+    background-color: rgb(68, 84, 118);
+        
+}
+a{
+    color: white;
+
+}
+.divbir{
+    width: 70%;
+    margin: left;
+}
+ul{
+    font-size: x-large;
+    background-color: rgb(68, 84, 118);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 50%;
+}
+li{
+    background-color:rgb(255, 255, 255);
+    font-size: medium   ;
+}
+
+
+#container {
+
+  width: 400px;
+
+  height: 400px;
+
+
+  position:absolute;
+
+  left: 50%;
+
+  top: 50%; 
+  margin-left: -200px;
+
+  margin-top: -100px;
+  font-size: x-large;
+}
